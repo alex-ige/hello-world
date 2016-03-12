@@ -1,4 +1,4 @@
 # hello-world
-Just another run through of the GitHub tutorial. 
-
+I'm alex and I don't know what I'm doing here. 
+"just another tutorial of github"
 
